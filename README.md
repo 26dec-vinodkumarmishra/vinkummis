@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vinodkumar Mishra
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in NodeJS full stack development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mishravinodkumar944@yahoo.com
+- 📫 How to reach me 26dec.vinodkumarmishra@gmail.com
 
 <!---
 vinkummis/vinkummis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
